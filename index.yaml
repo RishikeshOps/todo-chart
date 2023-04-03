@@ -12,7 +12,7 @@ entries:
       name: Rushikesh Mashidkar
     name: todo
     sources:
-    - .
+    - ./charts
     type: application
     urls:
     - todo-0.1.1.tgz
